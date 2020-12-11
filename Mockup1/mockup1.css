@@ -1,0 +1,33 @@
+.main-container{
+	background-color: #FFFFFF;
+	margin: 0 auto;
+}
+.up{
+	background-color: #33BEBE;
+	color: #FFFFFF;
+	font-weight: lighter;
+	font-family: Calibri, sans-serif;
+	width: 600px;
+	height: 75px;
+	font-size: 40px;
+	
+}
+.up p{
+	padding: 15px;
+	padding-top: 25px;
+}
+.down{
+	padding-top: 50px;
+	display: flex;
+	color: #7C8B88;
+	width: 600px;
+}
+.down img{
+	height: 225px;
+	width: 250px;
+}
+.down p{
+	padding-left: 30px;
+	font-size: 20px;
+	margin-top: 0;
+}

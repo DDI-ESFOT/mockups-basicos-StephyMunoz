@@ -1,0 +1,93 @@
+.circle{
+	width:100px;
+    height:100px;
+    border-radius:50%;
+    display: flex;
+    position: absolute;
+    margin-left: 204px;
+    background-color: #D5245B;
+}
+.circle p{
+	color: #FFFFFF;
+	font-size: 70px;
+    margin: auto;
+}
+.title{
+	text-align: right;
+	color: #747704;
+	padding-right: 204px;
+	margin-bottom: -10px;
+	font-weight: 100;
+	color: #131A2D;
+}
+.title .jane{
+	font-size: 50px;
+	font-family: system-ui;
+	margin-bottom: -20px;
+	font-family: sans-serif;
+    font-weight: 900;
+}
+.title p{
+	font-size: 20px;
+	font-family: system-ui;
+	font-size: x-large;
+	font-weight: 400;
+}
+.line{
+	height: 5px;
+	width: 925px;
+	background-color: #D0C4AB;
+	position: absolute;
+	margin-top: 10px;
+    margin-left: 204px;
+}
+.gallery{
+	margin-left: 204px;
+    background-color: #131A2D;
+    margin-right: 204px;
+    margin-top: 48px;
+}
+.gallery img{
+	margin: auto;
+	padding-top: 30px;
+    display: flex;
+}
+.collage{
+	margin-top: 30px;
+    position: absolute;
+    margin-top: -60px;
+    background-color: #131A2D;
+}
+.feat p{
+	height: fit-content;
+	width: fit-content;
+	color: #D0C4AB;
+	padding-left: 28px;
+	font-size: 40px;
+	font-family: system-ui;
+	background-color: #131A2D;
+	margin-bottom: -15px;
+}
+h1{
+	color: #D0C4AB;
+	font-weight: normal;
+    margin-bottom: -5px;
+}
+.img1, .img2, .img3{
+	margin: 28px;
+	text-align: center;
+	font-family: system-ui;
+	font-weight: 100;
+	display: inline-block;
+}
+.rect{
+	width: 400px;
+	height: 200px;
+	background-color: #D0C4AB;
+}
+
+a{
+	color: #D0C4AB;
+	text-decoration: none;
+	text-align: center;
+}
